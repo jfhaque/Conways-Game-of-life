@@ -1,0 +1,14 @@
+Navigate to the required folder. 
+
+Compiling the program: 
+javac Life.java
+
+Running the program
+java w n R/G
+
+where w stands for the width and height of the cell blocks, n stands for the number of iterations. R/G stands for whether you want random or a Glider gun. 
+R= random
+G= Gosper's glider gun
+
+Example: 
+java 40 500 G
